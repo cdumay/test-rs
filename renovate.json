@@ -16,8 +16,5 @@
         "patch"
       ]
     }
-  ],
-  "extends": [
-    "mergeConfidence:all-badges"
   ]
 }

@@ -1,4 +1,9 @@
 {
-  "extends": ["config:base"],
-  "enabledManagers": ["cargo"]
+  "extends": [
+    "config:base"
+  ],
+  "enabledManagers": [
+    "cargo"
+  ],
+  "dependencyDashboard": false
 }
